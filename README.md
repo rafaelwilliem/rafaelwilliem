@@ -32,8 +32,8 @@ I am a dedicated IT student and a working professional, currently balancing my c
 
 ### 📈 GitHub Stats
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelwilliem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwilliem&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelwilliem&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwilliem&layout=compact&theme=transparent"/>
 </p>
 
 ---
