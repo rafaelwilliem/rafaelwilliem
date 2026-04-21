@@ -31,20 +31,13 @@ I am a dedicated IT student and a working professional, currently balancing my c
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rafaelwilliem&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: light)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rafaelwilliem&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelwilliem&show_icons=true" />
-</picture>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwilliem&layout=compact&theme=transparent"/>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelwilliem&show_icons=true&theme=transparent&rank_icon=github&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwilliem&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### Top Repo
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelwilliem&repo=challora-hr-platform&description_lines_count=2)](https://github.com/rafaelwilliem/challora-hr-platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelwilliem&repo=chally-hr-ai&description_lines_count=2)](https://github.com/rafaelwilliem/chally-hr-ai)
 
 ---
 
