@@ -15,32 +15,6 @@ I am a dedicated IT student and a working professional, currently balancing my c
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Languages & Data Analysis**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Tools & Workflow**
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=apple-term&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelwilliem&show_icons=true&theme=transparent&rank_icon=github&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwilliem&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### Top Repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelwilliem&repo=challora-hr-platform&description_lines_count=2)](https://github.com/rafaelwilliem/challora-hr-platform)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelwilliem&repo=chally-hr-ai&description_lines_count=2)](https://github.com/rafaelwilliem/chally-hr-ai)
-
----
-
 ### 📫 Connect with me:
 - 🌐 **GitHub**: [github.com/rafaelwilliem](https://github.com/rafaelwilliem)
 - 📸 **Instagram**: [@daaboii_](https://www.instagram.com/daaboii_/)
