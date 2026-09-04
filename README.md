@@ -1,6 +1,6 @@
 # Hi there, I'm Rafael Williem! 👋
 
-### 📊 Aspiring Quant Engineer | Undergraduate IT Student @ President University
+### 📊 Quant Engineer Wannabe | Undergraduate IT Student @ President University
 
 I am a dedicated IT student and a working professional, currently balancing my career while pursuing my academic goals. My focus lies at the intersection of Technology and Economics, where I leverage data to understand complex market dynamics.
 
@@ -9,7 +9,7 @@ I am a dedicated IT student and a working professional, currently balancing my c
 ### 🚀 About Me
 - 🎓 **Education**: Undergraduate IT Student at **President University**.
 - 💼 **Professional**: Currently a working professional, balancing real-world experience with continuous learning.
-- 🎯 **Goal**: Aspiring to become a **Quant Engineer**, building bridges between algorithmic trading and software engineering.
+- 🎯 **Goal**: Excited to become a **Quant Engineer**, building bridges between algorithmic trading and software engineering.
 - 📚 **Learning Path**: Currently deepening my knowledge in **Python**, **Data Analysis**, and **Economics Study**.
 - 🛠️ **Current Focus**: Mastering Python OOP and data visualization for financial modeling.
 
@@ -20,4 +20,4 @@ I am a dedicated IT student and a working professional, currently balancing my c
 - 📸 **Instagram**: [@daaboii_](https://www.instagram.com/daaboii_/)
 
 ---
-*"The goal is not to predict the future, but to be prepared for it through data."* 📈✍️
+*"Make it first, perfecting it later."* 📈✍️
